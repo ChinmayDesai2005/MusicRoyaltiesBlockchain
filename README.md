@@ -4,6 +4,8 @@ This repository presents a decentralized solution for managing music royalties u
 
 ## Project Overview
 
+<img width="2208" height="1252" alt="image" src="https://github.com/user-attachments/assets/716fede8-459b-4eaf-b1c3-543725dec414" />
+
 The traditional music royalty system involves multiple intermediaries, lacks transparency, and is prone to disputes over payment distribution. This project leverages Ethereum smart contracts to:
 
 - Register songs and their copyright details.
