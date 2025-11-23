@@ -28,7 +28,7 @@ For a full technical and conceptual explanation, see the [MusicRoyalties Project
 - Automated smart contract-based revenue splits.
 - Resistance to tampering and data loss.
 
-## Demo & Presentation
+## Documentation
 
 - **Demo Video:** _Coming Soon_
 - [**Presentation Slides**](https://docs.google.com/presentation/d/1y1udTM6hfqlsnFnmk6SB_oQ7867IrfbIKs5X16_kXok/edit?usp=sharing)
@@ -80,7 +80,6 @@ For a full technical and conceptual explanation, see the [MusicRoyalties Project
 
 ## Authors
 
-Made By:  
 _**Chinmay Desai**_  
 D17C | 016 | Batch A  
 [chinmaydesai.xyz](https://chinmaydesai.xyz)
